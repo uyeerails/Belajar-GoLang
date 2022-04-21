@@ -8,6 +8,6 @@ func main() {
 	// Keyword var untuk deklarasi variable namaBelakang diisi setelah baris kode deklarsi
 	var namaBelakang string
 	namaBelakang = "rails"
-
+	// fmt.Printf() untuk menampilkan output dalam bentuk tertentu
 	fmt.Printf("hai %s %s!\n", namaDepan, namaBelakang)
 }
