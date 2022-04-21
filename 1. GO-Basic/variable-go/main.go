@@ -11,5 +11,6 @@ func main() {
 	fmt.Printf("hai %s %s!\n", namaDepan, namaBelakang)
 	// fmt.Printf() menampilkan output dalam bentuk tertentu Cara 2
 	fmt.Printf("halo", namaDepan, namaBelakang+"!")
-	// fmt.Printf("hai uyee rails!\") Cara 3
+	// fmt.Printf() menampilkan output dalam bentuk tertentu Cara 3
+	fmt.Printf("hai uyee rails!\n")
 }
